@@ -1,2 +1,2 @@
 # photoshop-download
-# download photoshop 
+download photoshop 
