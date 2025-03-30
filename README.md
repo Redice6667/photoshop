@@ -1,2 +1,2 @@
 # photoshop-download
-to download photoshop 
+# download photoshop 
